@@ -26,7 +26,7 @@ Versão moderna web do iGeom - Sistema de Geometria Dinâmica, migrado de Java A
 ## 📁 Estrutura do Projeto
 
 ```
-igeom2/
+igeom-poc/
 ├── index.html                 # Página principal
 ├── styles.css                 # Estilos CSS
 ├── app.js                     # Aplicação principal
@@ -50,7 +50,7 @@ igeom2/
 
 ### Executar a Aplicação
 
-1. Navegue até a pasta `igeom2`
+1. Navegue até a pasta `igeom-poc`
 2. Inicie um servidor web local:
    ```bash
    python3 -m http.server 8080
